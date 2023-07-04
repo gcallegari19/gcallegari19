@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Giannina Callegari</h1>
-<h3 align="center">Web Developer | Data Scientist | Data Analitycs</h3>
+<h3 align="center">Web Developer | Data Scientist | Data Analyst</h3>
 
 - 🌱 Actualmente estoy estudiando **la carrera de Desarrollo Front End**
 
